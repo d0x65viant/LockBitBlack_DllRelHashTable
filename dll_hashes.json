@@ -1,0 +1,19 @@
+{
+    "0x411677b7": ["ntdll.dll",    "dword_395EE8"],
+    "0xb1fc7f66": ["kernel32.dll", "dword_395FDC"],
+    "0xbcfa1667": ["advapi32.dll", "dword_3960D0"],
+       "0x82ff9": ["userenv.dll",  "dword_396174"],
+    "0x7132a177": ["user32.dll",   "dword_396188"],
+    "0x3032403a": ["gdi32.dll",    "dword_3961C4"],
+    "0x391830b4": ["shell32.dll",  "dword_39621C"],
+    "0x38327fba": ["ole32.dll",    "dword_396234"],
+    "0x820a18a3": ["oleaut32.dll", "dword_39629C"],
+    "0xfd1a17c6": ["wtsapi32.dll", "dword_3962B4"],
+    "0x41e8a017": ["RstrtMgr.dll", "dword_3962C0"],
+    "0xc3bc5607": ["activeds.dll", "dword_396308"],
+    "0x76e87915": ["wininet.dll",  "dword_396324"],
+    "0xf0208096": ["wsock32.dll",  "dword_396354"],
+    "0xcd2308d9": ["mpr.dll",      "dword_396368"],
+    "0xbe44aa22": ["winspool.drv", "dword_396378"],
+    "0xf20a87d4": ["gpedit.dll",   "dword_396390"]
+}
